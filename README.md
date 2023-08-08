@@ -8,10 +8,10 @@ If lab not working contact me on [Instagram @codingwithhardik](https://www.insta
 **Labs :**          
 | S.NO | LAB NUMBER | LAB NAME | LAB STATUS | LAST CHECKED | SOLUTION STATUS |
 |------|------------|----------|------------|--------------|-----------------|
-|  01  | GSP247     | Getting Started with BigQuery Machine Learning | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  02  | GSP229     | Predict Visitor Purchases with a Classification Model in BigQuery ML | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  03  | GSP246     | Predict Taxi Fare with a BigQuery ML Forecasting Model | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  04  | GSP642     | Importing Data to a Firestore Database | NOT CHECKED ❌ | NO ETA  | UPLOADED |
+|  01  | GSP247     | Getting Started with BigQuery Machine Learning | WORKING FINE ✅ | 08-08-2023 1:58 PM | UPLOADED |
+|  02  | GSP229     | Predict Visitor Purchases with a Classification Model in BigQuery ML | WORKING FINE ✅ | 08-08-2023 2:06 PM | UPLOADED |
+|  03  | GSP246     | Predict Taxi Fare with a BigQuery ML Forecasting Model | WORKING FINE ✅ | 08-08-2023 2:10 PM | UPLOADED |
+|  04  | GSP642     | Importing Data to a Firestore Database | WORKING FINE ✅ | 08-08-2023 2:15 PM | UPLOADED |
 |  05  | GSP643     | Build a Serverless Web App with Firebase | NOT CHECKED ❌ | NO ETA  | UPLOADED |
 |  06  | GSP344     | Serverless Firebase Development: Challenge Lab | NOT CHECKED ❌ | NO ETA  | UPLOADED |
 |  07  | GSP121     | Cloud Source Repositories: Qwik Start | NOT CHECKED ❌ | NO ETA  | UPLOADED |
