@@ -1,6 +1,7 @@
 # GSP642
 ## Run in cloudshell
 ```cmd
+gcloud auth list
 git clone https://github.com/rosera/pet-theory
 cd pet-theory/lab01
 npm install @google-cloud/firestore
