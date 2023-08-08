@@ -4,6 +4,7 @@ Level 1: BigQuery ML, Cloud Architecture and Devops Skills <br>
 **[NOTE]** Give credit when you use my code in your videos or share this code to someone.<br>
 If lab not working contact me on [Instagram @codingwithhardik](https://www.instagram.com/codingwithhardik/)<br>
 # ⚠️ All labs and code are in review by us
+# 2 labs code is still not available yet
 **Labs :**           
 | S.NO | LAB NUMBER | LAB NAME | LAB STATUS | LAST CHECKED | SOLUTION STATUS |
 |------|------------|----------|------------|--------------|-----------------|
