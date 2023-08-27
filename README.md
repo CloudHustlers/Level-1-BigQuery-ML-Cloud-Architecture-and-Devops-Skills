@@ -17,6 +17,6 @@ If lab not working contact me on [Instagram @codingwithhardik](https://www.insta
 |  07  | GSP121     | Cloud Source Repositories: Qwik Start | NOT CHECKED ❌ | NO ETA  | UPLOADED |
 |  08  | GSP330     | Implement DevOps in Google Cloud: Challenge Lab | NOT CHECKED ❌ | NO ETA  | NOT UPLOADED |
 |  09  | GSP301     | Deploy a Compute Instance with a Remote Startup Script | NOT CHECKED ❌ | NO ETA  | UPLOADED |
-|  10  | GSP303     | Configure Secure RDP using a Windows Bastion Host | NOT CHECKED ❌ | NO ETA  | NOT UPLOADED |
+|  10  | GSP303     | Configure Secure RDP using a Windows Bastion Host | NOT CHECKED ❌ | NO ETA  | UPLOADED |
 |  11  | GSP306     | Migrate a MySQL Database to Google Cloud SQL | NOT CHECKED ❌ | NO ETA  | UPLOADED |
 |  12  | GSP1077    | Google Kubernetes Engine Pipeline using Cloud Build | NOT CHECKED ❌ | NO ETA  | UPLOADED |
